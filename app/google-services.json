@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "234590091325",
+    "project_id": "bespoke-86340",
+    "storage_bucket": "bespoke-86340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234590091325:android:579653cbeb93dc8e0a9254",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234590091325-e1vc029a3m5jii9rnimeqec5qrh7olq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvREmA-VfL2uwbM0H07ug_4sVQTZuk8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234590091325-e1vc029a3m5jii9rnimeqec5qrh7olq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234590091325:android:f4c9713f75b082fb0a9254",
+        "android_client_info": {
+          "package_name": "com.izettle.payments.android.java_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234590091325-e1vc029a3m5jii9rnimeqec5qrh7olq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvREmA-VfL2uwbM0H07ug_4sVQTZuk8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234590091325-e1vc029a3m5jii9rnimeqec5qrh7olq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
